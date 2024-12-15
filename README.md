@@ -1,4 +1,3 @@
-# survey-form
 
 A simple and flexible survey tool has been designed to collect information from developers and software engineers about their preferences, skills, and experiences using different programming languages, technologies, and tools. The tool uses text fields, dropdown menus, radio buttons, and checkboxes to allow for an extended data collection process.
 
